@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+	padding:0;	
+}
+.Bluehori hr{
+	width: auto;
+	height: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:0;
+	background-color: #178aca;
+	
+}
+.container{
+	/*border: 1px solid red;*/
+	margin: 0 auto;
+	width: 1000px;			
+}
+.logo-wrapper{
+	text-align: center;
+	padding: 45px 0 30px 0;
+}
+.menu-wrapper li{
+	display: inline;
+	padding: 0 8px 0 0;
+	
+}
+.menu-wrapper ul{
+	
+	text-align: center;
+}
+.menu-wrapper a{
+	text-decoration:none;
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+	color:#424242;
+	
+}
+.menu-wrapper a:hover{
+	color:#2468bd;
+}
+.menu-wrapper li:last-child a{
+	margin:0;
+}
+.content-wrapper h1{
+	padding: 30px 0 0 0;
+	text-align:center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	color:#151515;
+}
+.content-wrapper p{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color:#2e2e2e;
+}
